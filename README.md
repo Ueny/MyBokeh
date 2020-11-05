@@ -36,6 +36,7 @@ MyBokeh aims to do a visualization on the *cdph-race-ethnicity.csv* and *latimes
   - Clone the repository content first, and enter the directory of the folder
      
      `git clone https://github.com/Ueny/MyBokeh.git`
+     
      `cd MyBokeh`
      
     ![image](https://user-images.githubusercontent.com/54614822/98190274-898f5b00-1ecb-11eb-9642-b879d9b10872.png)
