@@ -33,7 +33,7 @@ MyBokeh aims to do a visualization on the *cdph-race-ethnicity.csv* and *latimes
 
 # Serving the visualization through Docker
 ## Step 1: prepare the docker tool and data
-  - Download the Docker first to make sure you have docker installed in your local computer
+  - Download the Docker first in your local computer and make sure the Docker daemon running
   - Clone the repository content first, and enter the directory of the folder
      
      `git clone https://github.com/Ueny/MyBokeh.git`
