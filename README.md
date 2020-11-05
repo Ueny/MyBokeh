@@ -32,6 +32,7 @@ MyBokeh aims to do a visualization on the *cdph-race-ethnicity.csv* and *latimes
     `Bokeh serve --show resulting.py`
 
 # Serving the visualization through Docker
+## Step 1: prepare the docker tool and data
   - Download the Docker first to make sure you have docker installed in your local computer
   - Clone the repository content first, and enter the directory of the folder
      
@@ -40,7 +41,8 @@ MyBokeh aims to do a visualization on the *cdph-race-ethnicity.csv* and *latimes
      `cd MyBokeh`
      
     ![image](https://user-images.githubusercontent.com/54614822/98190274-898f5b00-1ecb-11eb-9642-b879d9b10872.png)
-    
+   
+## Step 2: build and run the visualization on docker
   - Build the image called *dsci560hw5*
   
      `docker build --tag dsci560hw5`
