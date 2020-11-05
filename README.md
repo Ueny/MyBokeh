@@ -45,7 +45,7 @@ MyBokeh aims to do a visualization on the *cdph-race-ethnicity.csv* and *latimes
 ## Step 2: build and run the visualization on docker
   - Build the image called *dsci560hw5*
   
-     `docker build --tag dsci560hw5`
+     `docker build --tag dsci560hw5 .`
      
     ![image](https://user-images.githubusercontent.com/54614822/98190180-54830880-1ecb-11eb-996c-c94f2903258e.png)
     
